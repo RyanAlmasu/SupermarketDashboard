@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run supermarket_webapp.py
